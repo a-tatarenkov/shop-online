@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/shop-online/static/css/main.9c4d24b4.css",
-    "main.js": "/shop-online/static/js/main.0f72933d.js",
+    "main.css": "/shop-online/static/css/main.ca11f91d.css",
+    "main.js": "/shop-online/static/js/main.99353562.js",
     "static/media/J-45Standard.svg": "/shop-online/static/media/J-45Standard.67e5323dad6cbd526a89bde7099e3e79.svg",
     "static/media/TheEssentialLesPaul.svg": "/shop-online/static/media/TheEssentialLesPaul.acec7afd46267562dbc791b8d56b4640.svg",
     "static/media/HummingbirdStandard.svg": "/shop-online/static/media/HummingbirdStandard.b84649778600dda7d9e0b2954f10b2df.svg",
@@ -10,6 +10,7 @@
     "static/media/ActivePrecision Bass®PHV.svg": "/shop-online/static/media/ActivePrecision Bass®PHV.c784c2214b0f7c027035dc507a88f86a.svg",
     "static/media/ProfessionalIIStratocaster®.svg": "/shop-online/static/media/ProfessionalIIStratocaster®.fe620d25f3b9dd25c96e9100b1906c9e.svg",
     "static/media/RedondoSpecial.svg": "/shop-online/static/media/RedondoSpecial.159321fba1ad3044745d5fcd07bf596e.svg",
+    "static/media/bgcatalog.jfif": "/shop-online/static/media/bgcatalog.bac9e83b813f076f531a.jfif",
     "static/media/martinIco.svg": "/shop-online/static/media/martinIco.2bee34098b6982fcedb30bcbba259a76.svg",
     "static/media/Acoustic.png": "/shop-online/static/media/Acoustic.940a07a8e8790aeb167e.png",
     "static/media/Basses.png": "/shop-online/static/media/Basses.00356c312a66a4ac92f3.png",
@@ -32,11 +33,11 @@
     "static/media/location.svg": "/shop-online/static/media/location.aa242b452f990f6940eb9c2c600c3ed6.svg",
     "static/media/sms.svg": "/shop-online/static/media/sms.866021996e6bbcc239888d6a68f0dd79.svg",
     "static/media/Facebook.svg": "/shop-online/static/media/Facebook.2afa229ae0c8922bc90d14e16fd2b848.svg",
-    "main.9c4d24b4.css.map": "/shop-online/static/css/main.9c4d24b4.css.map",
-    "main.0f72933d.js.map": "/shop-online/static/js/main.0f72933d.js.map"
+    "main.ca11f91d.css.map": "/shop-online/static/css/main.ca11f91d.css.map",
+    "main.99353562.js.map": "/shop-online/static/js/main.99353562.js.map"
   },
   "entrypoints": [
-    "static/css/main.9c4d24b4.css",
-    "static/js/main.0f72933d.js"
+    "static/css/main.ca11f91d.css",
+    "static/js/main.99353562.js"
   ]
 }
